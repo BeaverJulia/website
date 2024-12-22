@@ -576,8 +576,7 @@ button {
 }
 
 .hero {
-    margin-top: 10px;
-    padding: 400px 0 140px;
+    padding: 420px 0 140px;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
@@ -597,8 +596,6 @@ button {
 .title {
     position: relative;
     max-width: 90%;
-    margin-top: 10px;
-    margin-bottom: 10px;
     width: 400px
 }
 
@@ -650,7 +647,7 @@ button {
 }
 
 .modal {
-    background: rgba(175, 69, 69, 0.8);
+    background: rgba(242, 37, 232, 0.8);
     background-image: url("glitter.gif");
     pointer-events: none;
     -webkit-transition: all 0.4s ease;
@@ -832,7 +829,7 @@ h1 {
     font-family: "Roboto Mono", sans-serif;
     line-height: 1.6;
     font-size: 35px;
-    color: #222
+    color: #ffffff
 }
 
 p,
@@ -841,7 +838,7 @@ a {
     font-family: "Roboto Mono", sans-serif;
     font-size: 16px;
     line-height: 2;
-    color: #222
+    color: #ffffff
 }
 
 a:hover {
